@@ -33,7 +33,7 @@
      ---   Modulos
 
            @Semana 1
-           1 - Java Basic
+           1 - Java Basic.
 
             -- Estructura de Una clase
             (Una clase puede tener atributos (Variables ) y behaviors (Methodos )
