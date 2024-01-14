@@ -92,6 +92,10 @@
                 - Binario son digitos de 0 - 1, ejemplo 0b10 , es un digito seguido de b minusculo y luego 10 o 11 
 
 
+                nota: en java puedes separar los numeros con un _ para hacerlos mas facil de leer y java solo los ignora 
+                - ejemplo : int number = 500_00_99
+
+
            la plabra new te devuelve una nueva instancia del objecto, los objetos(Wrapper Class) son diferentes
                        a los primitives data types ya que cuando le assignas el valor a un datop primitivo el valor se
                        almacena en el stack mientras que cuando creas un objecto creas una variable referencia que va a
