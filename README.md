@@ -71,6 +71,7 @@
            @Semana 2
            2 - Working With Java Data Types
 
+
              - Java Tiene 8 tipos de datos
                 - Byte 
                 - Short
