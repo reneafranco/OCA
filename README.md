@@ -94,6 +94,7 @@
 
                 nota: en java puedes separar los numeros con un _ para hacerlos mas facil de leer y java solo los ignora 
                 - ejemplo : int number = 500_00_99
+                java lo lee como 5000099 
 
 
            la plabra new te devuelve una nueva instancia del objecto, los objetos(Wrapper Class) son diferentes
