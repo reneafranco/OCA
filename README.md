@@ -83,6 +83,15 @@
                 - boolean
 
 
+            - Java soporta 
+                - Octal que son dijitos de 0 - 7 
+                - Hexadecimal - digitos de 0- 9 , tambien soporta letras de de la A - F
+                (En el examen no te van a pedir convertir el tipo de datos pero si te va a pedir que los reconozcas) 
+                ejemplo de hexadecimal 0xFF , es un digito seguido por una x minuscula y luego letras mayusculas de la A - F
+               
+                - Binario son digitos de 0 - 1, ejemplo 0b10 , es un digito seguido de b minusculo y luego 10 o 11 
+
+
            la plabra new te devuelve una nueva instancia del objecto, los objetos(Wrapper Class) son diferentes
                        a los primitives data types ya que cuando le assignas el valor a un datop primitivo el valor se
                        almacena en el stack mientras que cuando creas un objecto creas una variable referencia que va a
