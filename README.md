@@ -71,6 +71,17 @@
            @Semana 2
            2 - Working With Java Data Types
 
+           
+             - Java Tiene 8 tipos de datos
+                - Byte 
+                - Short
+                - int 
+                - long
+                - float         1.0f
+                - double 
+                - char 
+                - boolean
+
 
            la plabra new te devuelve una nueva instancia del objecto, los objetos(Wrapper Class) son diferentes
                        a los primitives data types ya que cuando le assignas el valor a un datop primitivo el valor se
