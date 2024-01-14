@@ -50,6 +50,12 @@
             o asi main(String[] args) que no es que los input que le pases al programa , si quieres pasarle
             input al programa y puedes acceder a elos en args[0];
 
+            --POINTERS
+            - Los Objecto son instancias corriendo de una clase
+            - Una Clase no puede hacer nada sin un objeto
+            - Los constructores son una especie especial de methodos usados para crear objectos y no tienen ningun tipo de 
+            return type (ni siquiera void) 
+            - Los constructores corren despues que todos los campos (fields ) e instancias de blokes {} hallan corrido.
 
 
             Los features de Java
