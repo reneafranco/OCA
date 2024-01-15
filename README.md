@@ -92,6 +92,20 @@
                 - Binario son digitos de 0 - 1, ejemplo 0b10 , es un digito seguido de b minusculo y luego 10 o 11 
 
 
+                nota: en java puedes separar los numeros con un _ para hacerlos mas facil de leer y java solo los ignora 
+                - ejemplo : int number = 500_00_99
+                java lo lee como 5000099 / no se puede tener el _ al principio / al final o despues un punto decimal
+                -- double notAtStart = _1000.00 // does not compile / el _ no puede estar al principio 
+                -- double notAtEnd = 100.00_; // el _ no puede estar al final 
+                -- double decimal = 1_.01; // el _ no puede esatr antes o despues de un punto  decimal 
+
+
+            ---Reference Types
+
+            - Primitives data types store the actual value 
+            - Reference Types sore the memory address which point to an object
+
+
            la plabra new te devuelve una nueva instancia del objecto, los objetos(Wrapper Class) son diferentes
                        a los primitives data types ya que cuando le assignas el valor a un datop primitivo el valor se
                        almacena en el stack mientras que cuando creas un objecto creas una variable referencia que va a
