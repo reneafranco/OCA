@@ -140,7 +140,6 @@
         @Mes 1
         1 - Basic Level
 
-         ¡Entendido! Aquí tienes un desglose más detallado de las fases de estudio para cada semana:
 
          ### Mes 1: Proyecto Básico - Gestor de Tareas
 
@@ -185,7 +184,6 @@
         @Mes 2
         2 - Intermedio level
 
-        ¡Por supuesto! Aquí tienes un desglose más detallado de las fases de estudio para cada semana en cada mes:
 
         ### Mes 2: Proyecto Intermedio - API de Blog
 
