@@ -105,6 +105,9 @@
             - Primitives data types store the actual value 
             - Reference Types sore the memory address which point to an object
 
+            -- Srting s1, s2 se puede declarar incluso inicializar multiples variabls en la misma linea separdas por coma , 
+            y siempre y cuando sean del mismo tipo 
+
 
            la plabra new te devuelve una nueva instancia del objecto, los objetos(Wrapper Class) son diferentes
                        a los primitives data types ya que cuando le assignas el valor a un datop primitivo el valor se
