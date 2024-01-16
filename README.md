@@ -117,6 +117,16 @@
                 - Subsequencias de caracteres tambien son considerados numeros 
 
                 - No puedes usar las palabras resrvadas de Java , y recuerda que java es Case sensitive 
+
+                -- Valid
+                 $OkValid
+                 _alsoOkIndetifiers
+                 __stillOkButDontUseIt
+
+                 -- NOt Valid 
+                    - 3DPrinter // no puede empezar por numeros 
+                    - hollywodd@dd // no pueden contener caracterez especiales 
+                    - *$coffe //  no puedes usar * el unico simbolo que se puede usar al principio solo $
             
 
            la plabra new te devuelve una nueva instancia del objecto, los objetos(Wrapper Class) son diferentes
