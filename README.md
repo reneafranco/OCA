@@ -108,6 +108,16 @@
             -- Srting s1, s2 se puede declarar incluso inicializar multiples variabls en la misma linea separdas por coma , 
             y siempre y cuando sean del mismo tipo 
 
+            -- Identifiers
+            -- Rules
+                - Las reglas aplican para las variables , Methodos, fields etc.
+
+                - El nombre debe comenzar con una letra o el simbolo $ o _
+
+                - Subsequencias de caracteres tambien son considerados numeros 
+
+                - No puedes usar las palabras resrvadas de Java , y recuerda que java es Case sensitive 
+            
 
            la plabra new te devuelve una nueva instancia del objecto, los objetos(Wrapper Class) son diferentes
                        a los primitives data types ya que cuando le assignas el valor a un datop primitivo el valor se
