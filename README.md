@@ -127,6 +127,15 @@
                     - 3DPrinter // no puede empezar por numeros 
                     - hollywodd@dd // no pueden contener caracterez especiales 
                     - *$coffe //  no puedes usar * el unico simbolo que se puede usar al principio solo $
+
+
+                    --En Java se una convencion para nombrar identifiers llamada Camel Casing
+
+                    // los methodos y variables empiezan con una letra minuscula y la siguente palabra mayuscula
+                    -- int numbersOfEggs
+
+                    // las nombres de las clases empiezan con letra Mayuscula 
+                        -- class MyClass
             
 
            la plabra new te devuelve una nueva instancia del objecto, los objetos(Wrapper Class) son diferentes
