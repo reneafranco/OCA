@@ -127,7 +127,30 @@
                     - 3DPrinter // no puede empezar por numeros 
                     - hollywodd@dd // no pueden contener caracterez especiales 
                     - *$coffe //  no puedes usar * el unico simbolo que se puede usar al principio solo $
-            
+
+
+                    --En Java se una convencion para nombrar identifiers llamada Camel Casing
+
+                    // los methodos y variables empiezan con una letra minuscula y la siguente palabra mayuscula
+                    -- int numbersOfEggs
+
+                    // las nombres de las clases empiezan con letra Mayuscula 
+                        -- class MyClass
+
+                -- Local Variable 
+                - Una variable local es una variable definida dentro de un methodo
+                - Una variable local debe ser inicializada antes de usarse 
+                - No tienen valor por default y solo contiene datos basura hasta que se inicia 
+                
+                -- Class Variables o Instance variables o fields 
+                    - Class variable son compartidas a traves de varios objetos y tiene la palabra static delante 
+                    // statint int num = 6; // Class Variable
+
+                    // int nums = 5; // Instance variable
+                    - No es obligatorios inicializar ningun tipo de estas variables , tan pronto como son creados 
+                    java les da un default value 
+                    
+                    
 
            la plabra new te devuelve una nueva instancia del objecto, los objetos(Wrapper Class) son diferentes
                        a los primitives data types ya que cuando le assignas el valor a un datop primitivo el valor se
