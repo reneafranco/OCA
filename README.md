@@ -149,8 +149,17 @@
                     // int nums = 5; // Instance variable
                     - No es obligatorios inicializar ningun tipo de estas variables , tan pronto como son creados 
                     java les da un default value 
-                    
-                    
+
+
+            -----Scope Of Variables ----
+            -- Local Variables - las variables estan en scope of the particular method where its declared (dentro de un
+            methodo o blocke the codigo )
+            -- Instance variables - they Stay in scope till the ibject exists ( dentro de una clase )
+            -- class variables - they stay in scope till the programs ends ( static variables )
+
+
+            -- Orden De los Elementos 
+            PIC - Package, Import , Class 
 
            la plabra new te devuelve una nueva instancia del objecto, los objetos(Wrapper Class) son diferentes
                        a los primitives data types ya que cuando le assignas el valor a un datop primitivo el valor se
