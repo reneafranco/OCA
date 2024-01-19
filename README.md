@@ -355,5 +355,48 @@
         - **AWS: Explorar opciones avanzadas de configuración en Amazon ECS**
           - Investigar opciones avanzadas de configuración y gestión en Amazon ECS.
 
+Hi 
+Voy a darte un rapido vistaso de mis metas y lo que he hecho hasta ahora 
 
+Lo primero es definir cuales son mis goals, 
+
+    * Conseguir un trabajo como desarrollador de Software 
+    
+    * Completar mi Bachelors Degree 
+    (
+    * Convertirme en un mejor desarrollor de software 
+    ( 
+
+    lo que he echo hasta ahora y los planes que tengo a futuro 
+    - Para conseguir trabajo he  trabajado en mis skills , mejore mi resumen , me he preparado para entrevistas conto tecnicas, como de 
+    comportamiento , he comenzado a hacer networking , y tambien ha desarrollar mi marca personal , como un canal de youtube y mas activos en redes 
+    como linkind.
+     
+    - En cuanto a completar el bacherlos he considerado varias universidades pero encontre una que tiene el programa que quiero y aunque se que me va a 
+    tomar tiempo, es un objetivo que con esfuerzo puedo sacarme el titulo en un periodo de 1.5 - 2 anos. Tambien he investigado mucho sobre el programa 
+    que quiero hacer el cual es bachelors of Science , Software Development , y tengo una ruta de aprendizaje para optimizar mi tiempo y recursos.
+
+    - Para convertirme en un mejor desarollador me he preorizado en  pulir mis skills y probar proyectos de todo tipo saliendo de mi sona de confort 
+    y tratando cosas nuevas ,Tambien me estoy preparando para pasar Oracle Java Certifications el OCA que aunque la mayor razon por la que voy 
+    a sacar la certificacion es para agregarla al resumen y me convalida 2 clases en la universidad, tambien me mantengo resolviendo ejercicios 
+    de Leetcode / HackerRank ,mayormente para preparme para entrevistas pero tambien para entender nuevos algoritmos y formas de optimizar mi codigo 
+
+
+    Donde me veo a futuro 
+
+    Si bien estoy tratando de conseguir un trabajo como desarrollador Java porque es un lenguaje sencillo y facil de trabajar , la mayor razon es que 
+    me gusta trabajar mas en el backend / server / cloud parte del programa , quizas en futuro pueda desarrollar en la nube o quien sabe , yo veo los 
+    cambios como oportunidades , que puedo aprovechar para aprender algo nuevo y eso es lo que me motiva a querer siempre mejorar. 
+
+    Pasos que voy a tomar a partir de ahora 
+
+    Actualemnte tengo plan de estudio donde he divido el ano en 4 ciclos de 3 meses , y en cada ciclo tener un objetivo en especifico 
+    Ahora me estoy preparando para tomar el OCA exam, si puedo pasarlo me imagino que el proximo cilco ire por OCJP , ya que pienso 
+    enrollar en la universidad para mitad de ano mas o menos. Seguir estudiando y mientras lo hago seguir creando proyectos , hacer networking 
+    y seguir . Se que nada por si solo me puede garantizar un trabajo pero trato de con cada cambio mejorar mis posibilidades , ademas 
+    si algo tengo en claro es que para lograr los objetivos cuesta tiempo y esfuerzo, asi que me tome 1 mes o me tome 2 anos consguir el trabajo 
+    lo que quiero es mantenerme consistente 
+
+    Quiero aprovechar la oportunidad para dartte las gracias por la ayuda , ya que la verdad le tengo mucho respeto y me siento honrado de tener de ayuda 
+    de una persona tan experimentada como usted 
 
