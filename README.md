@@ -177,6 +177,13 @@
            3 - Using Operators and Decision Constructs
            
             -Understanding Java Operators
+            - A java operator is a especial symbol that can be applied to a set oof variables, values or literals
+            and that return a result
+
+            example : int sum = a + b; // a and b are operands andthe + is the operator itself.
+            
+
+            
            - Working with Binary Aritrhmetic Operatos 
            - Working With Unary Operator
 
