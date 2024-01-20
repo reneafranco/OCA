@@ -185,6 +185,12 @@
 
             
            - Working with Binary Aritrhmetic Operatos 
+            example : 
+            int y = 4;
+            double x = 3 + 2 * --y;
+           - Java Follows something call operators precedence , that basicly says that some operator has priority over 
+           other operators 
+           
            - Working With Unary Operator
 
                turnary operator 
