@@ -205,6 +205,15 @@
             division , sume o modulo (? * % ) tienen mayor precedence que +/- // luego de restarle el valor a y lo * 2 ;
             // luego de la multiplicacion solo queda sumar 3;
 
+            los Prefix( Pre-unary operators ) ++expression/ --expression
+            los PostFix( Post-unary operators ) expression++/ expression--
+
+            tienen mas precedence que los 
+            / division * mutiplicacion / % modulo
+
+            y los ultimos 
+            + suma - resta
+
             
            - Working With Unary Operator
 
