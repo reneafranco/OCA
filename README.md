@@ -175,8 +175,24 @@
 
            @Semana 3
            3 - Using Operators and Decision Constructs
+           
+            -Understanding Java Operators
+           - Working with Binary Aritrhmetic Operatos 
+           - Working With Unary Operator
 
-         
+               turnary operator 
+                
+                int i = 10;
+               int x = 10 > 2 ? i + 5 : i - 2;
+
+               int x = ( 10 > 2) ? (i + 5) : (i - 2);
+                // puede tener hasta 2 condiciones.
+                
+            - Using Additional Binary Operators 
+            - Understanding Java Statements
+            -Understending Advance Flow control 
+            - Summary and Review Question
+             
                 
 
            @Semana 4
