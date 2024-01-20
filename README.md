@@ -176,13 +176,8 @@
            @Semana 3
            3 - Using Operators and Decision Constructs
 
-               turnary operator 
+         
                 
-                int i = 10;
-               int x = 10 > 2 ? i + 5 : i - 2;
-
-               int x = ( 10 > 2) ? (i + 5) : (i - 2);
-                // puede tener hasta 2 condicionales y 2 salidas.
 
            @Semana 4
            4 - Creating and Using Arrays
