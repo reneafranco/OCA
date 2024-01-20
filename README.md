@@ -185,17 +185,27 @@
 
             
            - Working with Binary Aritrhmetic Operatos 
+           
             example : 
             int y = 4;
             double x = 3 + 2 * --y;
+            
            - Java Follows something call operators precedence , that basicly says that some operator has priority over 
            other operators ,  Whats the Value of x ? 
+           
             double x = 3 + 2 * --y;
             // en el background tiene este orden 
             --/ ++ (--y)delante de una variable se llama prefix y lo que hace es que antes de que la sentencia se ejecute 
             le resta o suma 1 a la variable primero. 
             --/++ (y--)despues de la variable es llamado postfix , y lo que quiere decir es que despues que termine la                 operacion sume o reste 1 a la variable 
-           
+
+            double x =  3 + ( 2* (--y)); // ese es el orden que java seguir para ejecutar la sentencia 
+
+            los prefix se ejecutan primero que la sentencia // y - 1 = 3;
+            division , sume o modulo (? * % ) tienen mayor precedence que +/- // luego de restarle el valor a y lo * 2 ;
+            // luego de la multiplicacion solo queda sumar 3;
+
+            
            - Working With Unary Operator
 
                turnary operator 
