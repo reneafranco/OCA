@@ -208,16 +208,14 @@
             los Prefix( Pre-unary operators ) ++expression/ --expression
             los PostFix( Post-unary operators ) expression++/ expression--
 
+            Nota: si hay parentesis esa consulta se ejecuta primero 
+            
             tienen mas precedence que los 
             / division * mutiplicacion / % modulo
 
             y los ultimos 
             + suma - resta
 
-            
-           - Working With Unary Operator
-
-               turnary operator 
                 
                 int i = 10;
                int x = 10 > 2 ? i + 5 : i - 2;
@@ -229,8 +227,31 @@
             - Understanding Java Statements
             -Understending Advance Flow control 
             - Summary and Review Question
-             
-                
+
+
+            keep on mid waht is each operator for 
+
+            int y = 10/5 // its return te question / 2 
+            int x = 10%5 // its return the remainder / 0
+
+
+            --- Numeric promotion
+            --Numeric Promotions rules 
+
+            1 - If two values have different data types , Java will automatically promote one of the values to the 
+            larger of the two data types.
+
+            2 - If one of the values is integral and the other is floating-point , java will automatically promote the 
+            integral value to the floating-point value data type . ( Si comparas un int con un float java convierte en int 
+            en float automatico / mismo con doubles )
+
+            3 - Smaller data types , byte, short and char are first promoted to int any time tehy are used with java
+            arithmetic operator . ( es decir que si cuando declares el valor de un short/byte/char y uses algun operador 
+            articmetico en la declaracion el resultado siemppre viene en int , asi que necesitas hacer un casting )
+
+            4 - After all promotions has occurred and the operands have the same data type , the resulting value will 
+            have the same data type as promoted the operans. (es decir si todos los operands fueron promovidos a double 
+            por ejemplo , al final el resultao va a ser un double 
 
            @Semana 4
            4 - Creating and Using Arrays
