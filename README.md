@@ -275,6 +275,12 @@
             explicit casint like this 
             y = (int)(y * x);
 
+            ---Realational Operators 
+
+            ---Logical Operators
+
+            --Equality Operators 
+
            @Semana 4
            4 - Creating and Using Arrays
 
