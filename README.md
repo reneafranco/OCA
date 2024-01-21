@@ -261,7 +261,7 @@
             ej: int x = (int) 1.0
 
 
-            --Compound operator // short hand operator
+            --Compound operator // short hand operator // Complex operators 
 
             int x = 2, z = 3;
             x += z // es lo mimso que x = x + z
