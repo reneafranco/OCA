@@ -283,7 +283,26 @@
             >= Greater  than or equal to 
             --- estos 4 operators solo son aplicables a primitives numeric types 
 
+            -- Instance of 
+            a instanceof b -- Return true if the reference that point to is an instance of a class, subclass or 
+            class that implements a particular interface, and named in b.
+
             ---Logical Operators
+            -- There is 3 types of locigas operators 
+
+            --- x & y (AND) if both are true the response is true if one is flase the result will be false
+
+            /// Nota si el primer elemento es true , la otra parte de la cadena se ejecuta 
+            si el primer operants is false, la segunda consulta no se ejecutara ya qye el resultado es falso 
+            
+            --x | y (inclusive OR) if one of the operans is true the result will be true , if bothe are false 
+            the result will false 
+
+        // NOta si la primera consulta es false entonces la segunda consulta se ejecuta si la primera consulta es 
+        true no se ejecuta la segunda 
+        
+            -- x ^ y (Exclusive OR) si las 2 consultas son iguales (false and false or true and true) el resultado es 
+            false , si una de las consultas es diferente a la otra true ;
 
             --Equality Operators 
 
