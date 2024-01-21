@@ -253,6 +253,13 @@
             have the same data type as promoted the operans. (es decir si todos los operands fueron promovidos a double 
             por ejemplo , al final el resultao va a ser un double 
 
+
+            -- Explicit Type Casting 
+
+            - Java automaticamente convierte los data type mas pequenos los upcast a los datos mas grandes 
+            -Pero para degradar un numero mas grande a uno mas pequeno tienes que hacer implicit cast 
+            ej: int x = (int) 1.0
+
            @Semana 4
            4 - Creating and Using Arrays
 
