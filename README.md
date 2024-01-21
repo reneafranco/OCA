@@ -321,6 +321,9 @@
 
         2 Comparin Objects and Strings
         -- When you compare 2 objects con == lo que se va a comparar son las variables referece 
+
+
+        -------CONDICIONAL STATEMENTS ------
         
            @Semana 4
            4 - Creating and Using Arrays
