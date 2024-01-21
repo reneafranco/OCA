@@ -260,6 +260,12 @@
             -Pero para degradar un numero mas grande a uno mas pequeno tienes que hacer implicit cast 
             ej: int x = (int) 1.0
 
+
+            --Compound operator // short hand operator
+
+            int x = 2, z = 3;
+            x += z // es lo mimso que x = x + z
+
            @Semana 4
            4 - Creating and Using Arrays
 
