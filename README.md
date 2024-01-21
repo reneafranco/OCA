@@ -292,20 +292,25 @@
 
             --- x & y (AND) if both are true the response is true if one is flase the result will be false
 
-            /// Nota si el primer elemento es true , la otra parte de la cadena se ejecuta 
-            si el primer operants is false, la segunda consulta no se ejecutara ya qye el resultado es falso 
+           
             
             --x | y (inclusive OR) if one of the operans is true the result will be true , if bothe are false 
             the result will false 
 
-        // NOta si la primera consulta es false entonces la segunda consulta se ejecuta si la primera consulta es 
-        true no se ejecuta la segunda 
+        
         
             -- x ^ y (Exclusive OR) si las 2 consultas son iguales (false and false or true and true) el resultado es 
             false , si una de las consultas es diferente a la otra true ;
 
-            --Equality Operators 
+            -- Short Circuit Operators || && 
+            || &&  NOta si la primera consulta es false entonces la segunda consulta se ejecuta si la primera consulta es 
+        true no se ejecuta la segunda 
+            int x = 2
+             ejemplo boolean x = true || ( x + 2); 
 
+
+
+        
            @Semana 4
            4 - Creating and Using Arrays
 
