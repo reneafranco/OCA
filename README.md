@@ -303,13 +303,24 @@
             false , si una de las consultas es diferente a la otra true ;
 
             -- Short Circuit Operators || && 
-            || &&  NOta si la primera consulta es false entonces la segunda consulta se ejecuta si la primera consulta es 
+            || NOta si la primera consulta es false entonces la segunda consulta se ejecuta si la primera consulta es 
         true no se ejecuta la segunda 
             int x = 2
              ejemplo boolean x = true || ( x + 2); 
+            && si la primera expresion es false la segunda no se ejecuta , si la primera expresion es true la segunda 
+            consulta se ejecuta
+ 
+        -- EQUALITY OPERATORS 
+        == iguales o != no igual 
+
+        -RULES
+        1 - Automatic Promotion:  If 2 operants are diferent data types java hace Automatic promotions and promote the             smoller data type to the biger one . ejemplo:
+
+        5 == 5.0 // java convierte el int de la izquierda automaticamente a adouble para entonces compararlos
 
 
-
+        2 Comparin Objects and Strings
+        -- When you compare 2 objects con == lo que se va a comparar son las variables referece 
         
            @Semana 4
            4 - Creating and Using Arrays
