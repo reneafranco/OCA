@@ -275,7 +275,13 @@
             explicit casint like this 
             y = (int)(y * x);
 
-            ---Realational Operators 
+            ---Realational Operators (Comapare 2 expression and return a boolean value 
+
+            <  Strictly less than
+            <= lest that or equal to 
+            > Strictly More than 
+            >= Greater  than or equal to 
+            --- estos 4 operators solo son aplicables a primitives numeric types 
 
             ---Logical Operators
 
