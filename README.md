@@ -265,6 +265,15 @@
 
             int x = 2, z = 3;
             x += z // es lo mimso que x = x + z
+            --Nota los compoaund opertors nos pueden servir para hacer implicit castimg ejemplo:
+
+            idouble x = 10;
+            int y = 6;
+
+            y*= x ;// aunque y sea un  int al usar un compaund operator java conviert el doble x a int 
+            y = y * x ;// aunque la expresion sea la misma esto arrojara un error , para que compile tienes que hacer 
+            explicit casint like this 
+            y = (int)(y * x);
 
            @Semana 4
            4 - Creating and Using Arrays
