@@ -360,7 +360,61 @@
 
 
         -- ADDING MULTIPLES TERMS TO THE FOOR LOOP
+
+        int x = 0;
+
+        for(long y = 0, z = 4; x < 5 && y < 10;  x++, y++){
+        sout(y + " ");
+        }
+        sout(x);
+
+        --NOTAS--
+        1 - Puedes declarar multiples variables in the initializacion part; 
+        2 - the boolean exprecion solo devuleve 1 valor aunque en el ejemplo tiene 2 condiciones estan usando 
+        && es decir que cuando una de las de condiciones no se cumpla retorna false mientras que ambas sean true
+        el porgrama seguira corriendo
+        3 las variables creadas en el foor loop o la initializacion part are only availavle withe the foor looop scope 
+
         
+        -- READING A VARIABLE IN THE INITIALIZATION BLOCK--
+
+        int x = 0;
+        long y = 0
+
+        for(y = 0, x = 4; x < 5 && y < 10; x++, y++){
+        sout(x)
+        }
+
+        NOTAS 
+        1 - NO COMPILA en l initializacion block porque x se repite en el initializacion blook despues de ser definida
+        (Es como una ambigues reference, el compailer piensa que es una duplicate varibale declaration ) 
+
+        2 - OJO si declaras antes las variables y solo le asignas un valor en el initialization block puedes usar variables 
+        de diferentes data types 
+
+
+         --- Using Incompatibles data tupes in the initialization block 
+
+         for(long y = 0, int x = 4; x < 5 && y < 10; x++ , y++){
+         sout(y + " ");
+         }
+
+
+         -- Using Variables OUt of Scope --
+
+         for(int x = 0 ; x < 10; x++){
+             sout("HELLO")
+         }
+         sout(x) // OUT OF SCOPE 
+
+         NOTAS
+         1 - las variables que se crean en el iunitializacion block or se crean dentro del foor loop son 
+         locales para el foor loop y solo son accesibles dentro del foor.
+
+
+
+         --FOR EACH LOOP--
+
         
            @Semana 4
            4 - Creating and Using Arrays
