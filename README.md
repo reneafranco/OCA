@@ -323,7 +323,44 @@
         -- When you compare 2 objects con == lo que se va a comparar son las variables referece 
 
 
-        -------CONDICIONAL STATEMENTS ------
+        -------Capitulo 2  ------
+
+
+        do{
+        curley brezar optional if you have only one statement
+        the code inside the do it will excecute al least one time 
+        } while(boolean condicion){
+            curley brezar optional if you have only one statement
+            the code while continue executing as long as the boolean condicion stay true
+            // if the condicion keep true it will be an infinite loop
+        }
+
+        -- Al while loop can be converted  to do while and viceversa , cuando usas cada uno? 
+        la verdad no importa mucho since puedes convertir uno en otro, depende de la situacion 
+        o de tu gusto 
+
+
+        -- FOOR LOOPS 
+
+        for(initializacion ; boolean expresion ; update Variable){
+
+            curley brazer optional y you have only one statment 
+            - initialization , boolean exprecion and update variable are optionals but if you dont have a boolean 
+            expresion to somhow exit the code it will be a infinite loop 
+        
+        }
+
+
+        orden of execution of a foor loop 
+        1 - Initializacion (only happends one time )
+        2 - Check Boolean expresion (if the boolean expresion is true the code inside de curley brazer will run)
+        3 - The code in the curley brazer or the satatement will be executed 
+        4 - update the variable (actualiza el valor de la variable del condicional boolean )
+        5 - regresa al paso 2 y repite .
+
+
+        -- ADDING MULTIPLES TERMS TO THE FOOR LOOP
+        
         
            @Semana 4
            4 - Creating and Using Arrays
