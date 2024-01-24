@@ -421,6 +421,10 @@
              the datatype variable will hold the fisrt value of the collection at the first itarations
          }
 
+            El for ech loop is an enhaced for loop lo que quiere decir que java convierte el  for each en un 
+            foor loop at compile time;
+         
+
         
            @Semana 4
            4 - Creating and Using Arrays
