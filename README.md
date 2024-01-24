@@ -415,6 +415,12 @@
 
          --FOR EACH LOOP--
 
+         for(datatype variable name : Arrays/Collectios){
+             body, 
+             curly braces requiered for more than one statment
+             the datatype variable will hold the fisrt value of the collection at the first itarations
+         }
+
         
            @Semana 4
            4 - Creating and Using Arrays
