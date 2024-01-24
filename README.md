@@ -423,8 +423,10 @@
 
             El for ech loop is an enhaced for loop lo que quiere decir que java convierte el  for each en un 
             foor loop at compile time;
-         
 
+            El For each loop no te deja tener acceso a los indeces del Array/Collections , si quieres mas cotrol 
+            o comparar un idex con el otro usa un foor loop.
+            
         
            @Semana 4
            4 - Creating and Using Arrays
