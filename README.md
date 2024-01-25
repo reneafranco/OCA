@@ -427,6 +427,35 @@
             El For each loop no te deja tener acceso a los indeces del Array/Collections , si quieres mas cotrol 
             o comparar un idex con el otro usa un foor loop.
             
+        ---- ADVANCE FLOW CONTROL--
+
+            --NESTES LOOP---
+             1 - Un loop puede contener multiples loos inside 
+
+            int[][] myComplexArray = {{5, 2, 3, 4}, {3, 5, 6, 7}, {2, 5, 1 ,5}};
+
+            for(int[] mySimpleArray : myComplexArray){ // accede a los elemetos uno a uno
+                 for(int i = 0; i < mySimpleArray.length; i++){
+                         sout(mySimpleArray[i] + " ");
+                 }
+
+                 
+            }
+
+            ----BREAK STATEMENT---- 
+
+            optional label : while(boolean expression){
+
+            //Body
+
+            // somehere in loop
+            break optionalLabel;
+            }
+
+            1 - el opcional label nos sirve para identificar un while loop y esa manera 
+            poder romper higer wile loops, if the brake statment no tiene la optionalabel 
+            el brake statment rompera el loop mas cercano 
+
         
            @Semana 4
            4 - Creating and Using Arrays
