@@ -456,6 +456,41 @@
             poder romper higer wile loops, if the brake statment no tiene la optionalabel 
             el brake statment rompera el loop mas cercano 
 
+
+
+            ----CAPITULO 3 Core Java apis -----
+
+        - Creating anda Manipulating Strings 
+            - Creating Strings
+                - String are Clases no primituves data types
+
+                String name = "HELLO";
+
+                String helo = new String("WORLD");
+
+                String always use double quotes ""
+
+            
+            -Concatenation
+
+             
+
+            
+            - Immutability
+            - The String Pool
+            - Important methods 
+            - method chaining
+
+        
+        - Using the String builder Class
+        - Understanding Equality
+        - Undertending Java Arrays
+        - Understanding an ArrayList
+        - Working with Dates and Times
+        - Sumary Question
+        
+
+            
         
            @Semana 4
            4 - Creating and Using Arrays
