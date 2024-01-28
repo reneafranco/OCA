@@ -487,10 +487,26 @@
             - Mutability and Chaining 
             - Creating StringBuilder Objects
             - Important String Builder Methods
+                StringBuilder sb = new StringBuilder("animals");
+                - charAt()
+                - indexOf()
+                -append();
+                    - its does not creat a new String, its works in the same object ; 
+                - length()
+                    - int len = sb.length();
+                
+                - substring()
+                    String sub = sb.substring(beginningIndex) 
+                            or 
+                    String sub2 = sb.substring(beginingIndex, endIndex); 
+                    OJO inclye el start index pero no el end Index
             - String BUilder vs String Buffer
                 - size vs capacity -
                 Since String are inmutables the size of the String is the same as the capacity 
                 but since string builder are likly to change java by default give a size of 16 
+                if you append a object that requierd more capacity java will automaticly add more capacity for you 
+
+                String buffer is like the older brother of String Builder its more slo becouse its treath safe 
                 
             - Understanding Equality 
         
