@@ -488,6 +488,10 @@
             - Creating StringBuilder Objects
             - Important String Builder Methods
             - String BUilder vs String Buffer
+                - size vs capacity -
+                Since String are inmutables the size of the String is the same as the capacity 
+                but since string builder are likly to change java by default give a size of 16 
+                
             - Understanding Equality 
         
         - Understanding Equality
