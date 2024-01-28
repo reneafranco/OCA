@@ -474,8 +474,6 @@
             -Concatenation
 
              
-
-            
             - Immutability
             - The String Pool
             - Important methods 
@@ -483,6 +481,15 @@
 
         
         - Using the String builder Class
+
+            What is a String builder 
+                
+            - Mutability and Chaining 
+            - Creating StringBuilder Objects
+            - Important String Builder Methods
+            - String BUilder vs String Buffer
+            - Understanding Equality 
+        
         - Understanding Equality
         - Undertending Java Arrays
         - Understanding an ArrayList
@@ -514,6 +521,13 @@
             - Online Course
             - OCA Book $
             - Enthuware Software 
+
+
+
+
+
+
+            
 
 
 
