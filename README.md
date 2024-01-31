@@ -565,9 +565,33 @@
 
         --- size() method
             - es el equivalente al length in arrays
+        -- isEmpty() methods
+        - return false if the arrayist have elements and true if the list is empty
 
-        - Wrapper Classs 
+        --clear method
+            - void clear()// clear all the elemnt in the listArray();
+        --contains()
+            - boolean contains(Object objcect) // ret6urn true if the element is within the ArrayList
+        -- Equals methods 
+            - same elemnets in the same order 
+            // bolean equals(objects objects );
+            
+        - Wrapper Classs ------
+            --methods-- 
         - Autoboxing
+            Integer i = new Integer(10);
+            if i want to add that value to a primitive dataType 
+            int x = i.intValue(); // with aoutoboxing we dont have to taht 
+            int x = i // this is autoboxing
+
+            ---NOTE LAMBDAS-----
+            listTest.forEach(takes a funciontal interface)// its does not return nothing
+
+            listTest.forEach(SingleElement -> ActionsOnThatElements);
+
+            listTest.forEach(a -> System.out.println(a))
+
+            
         - Converting Betwen Array and List
         - Sorting
 
