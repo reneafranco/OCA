@@ -593,9 +593,29 @@
 
             
         - Converting Betwen Array and List
-        - Sorting
 
-        
+            - listTest.toArray() // returns an OBJECTS ARRAY
+
+            Object[] test = listTest.toArray();
+            //Si quieres convetirlo a un tipo especifico de ARray haces esto 
+
+            String[] test = listTest.toArray(new String[0]); 
+            //aunque en el constructor este un 0 como el size del array lo que esta pasando es que 
+            le estamos diciendo a java que creee un array de tamano inicial de 0 pero java se encargara 
+            de crear un array apropiadamente a corde al tamano // no importa que este 0 java va a crear
+            el array con el length adecuado
+
+
+            ---Converting Array to ArrayList / List ----
+           -- an array its a fixed size list lo que quiere decir es que si cras una lista de un array sera 
+           un fixed size list and you can not icement the length of the array 
+            
+        - Sorting
+            - Helper methods from the collections interface 
+            Collections.sort(TakeAListAndSortThatList);
+
+            System.out.println(Collections.sort(listTest));
+            
         
         
 
