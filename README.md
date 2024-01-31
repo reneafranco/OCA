@@ -522,6 +522,14 @@
            @Semana 4
            4 - Creating and Using Arrays
 
+           - multidimensional arrays 
+
+           String[][] rectangulol = new String[3][2];
+
+           esto crea un array multidimensional array con 3 elemntos en el cual cada elemnto tiene 2 elementos
+
+           
+
 
            @Semana 5
            5 - Using Loop Constructs
