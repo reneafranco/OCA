@@ -528,8 +528,16 @@
 
            esto crea un array multidimensional array con 3 elemntos en el cual cada elemnto tiene 2 elementos
 
-           
+        ---- ARRAY LIST-------
 
+        - Creating  ArrayList
+        - Using Array List
+        - Wrapper Classs 
+        - Autoboxing
+        - Converting Betwen Array and List
+        - Sorting
+        
+        
 
            @Semana 5
            5 - Using Loop Constructs
