@@ -547,7 +547,25 @@
              
              List<GenericDataType> parents = new ArrayList<>();
              
-        - Using Array List
+        ---- Using Array List------
+       --methods--
+        ArrayList<Integer> listTest = new ArrayList<>();
+
+        listTest.add(120); //  boolean (E element) returns always true since what the method do is add value to the list
+       -- theres is other version void add(E elemnet, index) se puede inseratr un elemento en un idece especifico
+        listTest.add(0, 10); // this will change the value at index 0 with 10 
+
+        --remove method // 
+            boolean remove(object object); // remueve ese elemento
+            boolen remove(int index ); // remueve el elemnto en el index deseado 
+
+        -- set methods
+            E set(int index, E new Element ) insert an element in the index that you provide 
+            - si le pasas un idex que no este disponible te da un index out bound exception
+
+        --- size() method
+            - es el equivalente al length in arrays
+
         - Wrapper Classs 
         - Autoboxing
         - Converting Betwen Array and List
