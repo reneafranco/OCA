@@ -531,11 +531,29 @@
         ---- ARRAY LIST-------
 
         - Creating  ArrayList
+        
+            - Its an Array wich increses its size dynamically and provides a lots of inbuild funcionalities
+            - ArraysList comes in the java.util package
+
+        ArrayList<GenericDataType> nameOfTheArrayList = new ArrayList<>();
+            - ArraysList works with Wrapper Class only not with primitives datatypes
+
+        ArraList<Integer> list1 = new ArrayList<>(10);
+            - the inicial size or capacity initialz its 10 slots 
+        ArraList<Integer> list2 = new ArrayList<>(list1);
+            - Crating an arrayList from another arrayList
+            
+             - ArrayList implements the list interface
+             
+             List<GenericDataType> parents = new ArrayList<>();
+             
         - Using Array List
         - Wrapper Classs 
         - Autoboxing
         - Converting Betwen Array and List
         - Sorting
+
+        
         
         
 
