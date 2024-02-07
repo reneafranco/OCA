@@ -16,8 +16,6 @@
     - test
 
 
-
-
     --- Oracle Java Associate Programer.
 
         - el examen cuenta de 8 modulos, Puedo dividir cada modulo por semana ,
