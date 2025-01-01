@@ -845,3 +845,44 @@ Lo primero es definir cuales son mis goals,
     Quiero aprovechar la oportunidad para dartte las gracias por la ayuda , ya que la verdad le tengo mucho respeto y me siento honrado de tener de ayuda 
     de una persona tan experimentada como usted 
 
+
+Cambios de 2025 - Que he echo hasta ahora , en que he mejorado y que no he podido avanzar. 
+
+    Este ano ha ido muy bien  .  He emepezado a tomar clases en la universidad desde febrero. No decidi sacar la certificacion de java aunque estudiar me ayudo mucho.
+    Pude tranferir varias clases a la universidad y asi solo tengo que pasar una pequena parte . En diciembre complete el 75 % del degree y aunque tenia momentum ahora siento que 
+    deberia voler a coger fuerzas y terminar fuerte . 
+
+    Fui a new jersey y aunque este ano estubo complicado para conseguir trabajo tube un par de proyetos freelance y consegui un trabajo que no pagan en ups. 
+    Nesecito ser mas diciplinado ya que me trabajo me exige y neseito encontrar tiempo para mi y para la familia. 
+    Deberia hacer mas actividades fisicas . 
+
+Que mejore ? 
+
+    Mi dominio del ingles es cada vez mejor. Me preocupaba que se me hiciera complicada la escuela pero gracias a dios se me ha echo bastante facil leer documentacion , hablar con mas detalles 
+    de mis proyectos y proyectar mi voz.  Tambieen he aprendido mucho en la escuela, quizas no tanto de softare porque si, sabes cantidad pero igual puedo mejorar; es un competencia de mi contra mi 
+    pero no en el mal sentido. He aprendido de negocios , leyes y una vista mas aplia mas alla de solo software. 
+
+    He aprendido a ser mas humilde y ver valor en las cosas mas alla de monetario. Deberia leer mas y tratar de darlo todo este ano. Me preocupa el carro nuevo y los desafios del futuro; pero ya sea la razon 
+    x la cual estoy aqui debo estar agradecido, y usar mi conociemento a su full extencion . Aunque el sentimiento de incertidumbre que viene con cambios me asusta debo arriesgarme mas. 
+
+Que no mejore ? 
+
+    Soy indisciplinado. deberia dar mas de mi y no perder tanto el tiempo. Ser multitareas quiere decir hacer 2 ald 50 %, en lugar de una al 100 % y la otra la terminas manana.
+    Es dificil, y estar en un trabajo que pagan lo mismo sin esforzarte es facil, pero quieor darlo todo; ver donde puedo llegar y romper las cadenas de miedo. Al final fallando aprendes y 
+    siempre trata de buscar el valor en los actos. 
+
+    No te aferres a recuerdos , no puedes condenar tu presente a memorias de tu pasado . El futuro es incierto pero puedes tratar de molderalo lo mejor posible. Trata de vivir una vida plena y sin 
+    remordimientos , xq las personas pueden aparentar o montar un personaje, pero no puedes mentirte a ti mismo; si te repites la metira tantas veces te terminaras creyeendo y no sabras diferenciar de la verdad.
+    Vive sin remordimientos, se resonsable de tus actos y asume culpa . No tengas miedo, liberar ek poder de tu mente puede ser temeroso y doloroso, pero al final eres tu la unica persona que te puede ayudar y 
+    escuchar. 
+
+Planes a futuro 
+
+    Planeo terminar el BS en SWE este ano, luego quiero empezar en mi master . aprovechar las ofertas de mi trabajo y usarlo para pagar por la escuela. 
+
+    Planeo preparme y en el medio tiempo que estudio sacar proyectos freelance. Mejorar mi huella digital , como crear apliaciones de negocios , personal tracker que use matematicas o llms para darte mejores 
+    consejos. App de consejos. blog de tutoriales , aprender a escribir documentacion. Busacr ejemplos de research , como son , mejores practias y agregarle standars y profesionalismo (asi practicas y ganas habilidades para 
+    research en el doctorado ) 
+
+
+
